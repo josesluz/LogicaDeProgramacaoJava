@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcfc1083-6813-4db2-9cd6-743a221281f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/prettyPhoto.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/animated-number/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/backup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/blog/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/blog/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/blog/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/consultoria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/cta2/cta2-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/cta2/cta2-img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/entrega.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/execucao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/firewall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/ico/apple-touch-icon-114-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/ico/apple-touch-icon-144-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/ico/apple-touch-icon-57-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/ico/apple-touch-icon-72-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/ico/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/main-feature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/manutencao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/manutencao_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/monitoramento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/planejamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/portfolio/full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/btnNext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/btnPrevious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/contentPattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/default_thumbnail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_rounded/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/btnNext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/btnPrevious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/contentPattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/default_thumbnail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/dark_square/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/default_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/sprite_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/sprite_prev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/sprite_x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/default/sprite_y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/btnNext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/btnPrevious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/contentPatternBottom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/contentPatternLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/contentPatternRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/contentPatternTop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/default_thumbnail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/facebook/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_rounded/btnNext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_rounded/btnPrevious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_rounded/default_thumbnail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_rounded/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_rounded/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_square/btnNext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_square/btnPrevious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_square/default_thumbnail.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_square/loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/prettyPhoto/light_square/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/profile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/slider/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/slider/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/suporte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/tarefas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/team/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/team/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/team/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/team/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/testimonial/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/testimonial/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/whatsapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/images/work-process/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/jquery.inview.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/jquery.isotope.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/jquery.prettyPhoto.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/mousescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/smoothscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../josesluz/sendemail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1508476983">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaFX" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="81" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaFX" value="81" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/calculadora.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/calculadora.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="197" />
+    <option name="width" value="1356" />
+    <option name="height" value="555" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/calculadora.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
