@@ -1,3 +1,11 @@
+/*
+Atividade para prática de Lógica de Programação em Java
+
+José Luz - josesluz@gmail.com
+
+*/
+
+
 package calculonotas;
 
 import javax.swing.JOptionPane;
